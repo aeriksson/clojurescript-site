@@ -22,6 +22,7 @@ https://github.com/clojure/clojurescript/blob/master/changes.md#1.10.zzz[Changes
 
 Thanks to all of the community members who contributed to ClojureScript 1.10.zzz:
 
+* Enzzo Cavallo
 * Erik Assum
 * Eugene Kostenko
 * Martin Kučera
