@@ -27,5 +27,6 @@ Thanks to all of the community members who contributed to ClojureScript 1.10.zzz
 * Eugene Kostenko
 * Martin Kučera
 * Michiel Borkent
+* Sahil Kang
 * Thomas Heller
 * Thomas Mulvaney
